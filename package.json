@@ -6,7 +6,7 @@
   "repository": "https://github.com/mizdra/github-label-presets.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "main": "./index.json",
   "engines": {
     "node": ">=16.0.0"
