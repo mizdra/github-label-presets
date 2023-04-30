@@ -19,10 +19,6 @@
     "github-label-setup"
   ],
   "files": [
-    "bin",
-    "src",
-    "!src/**/*.test.ts",
-    "!src/**/__snapshots__",
-    "dist"
+    "index.json"
   ]
 }
