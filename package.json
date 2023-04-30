@@ -1,9 +1,9 @@
 {
-  "name": "app_name",
-  "description": "app_description",
+  "name": "@mizdra/github-label-presets",
+  "description": "The label presets for https://github.com/azu/github-label-setup.",
   "version": "0.0.0",
   "type": "commonjs",
-  "repository": "https://github.com/mizdra/app_name.git",
+  "repository": "https://github.com/mizdra/github-label-presets.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
   "private": true,
@@ -15,7 +15,9 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "keywords": [],
+  "keywords": [
+    "github-label-setup"
+  ],
   "files": [
     "bin",
     "src",
