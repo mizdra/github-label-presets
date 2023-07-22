@@ -121,5 +121,11 @@
     "color": "0052cc",
     "description": "In case of vulnerabilities.",
     "aliases": ["security"]
+  },
+  {
+    "name": "Type: Other",
+    "color": "aaaaaa",
+    "description": "Cannot be classified into any other type.",
+    "aliases": []
   }
 ]
