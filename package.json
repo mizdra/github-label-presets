@@ -1,7 +1,7 @@
 {
   "name": "@mizdra/github-label-presets",
   "description": "The label presets for https://github.com/azu/github-label-setup.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "commonjs",
   "repository": "https://github.com/mizdra/github-label-presets.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
