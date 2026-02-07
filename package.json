@@ -6,14 +6,10 @@
   "repository": "https://github.com/mizdra/github-label-presets.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "main": "./index.json",
   "engines": {
     "node": ">=16.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "github-label-setup"

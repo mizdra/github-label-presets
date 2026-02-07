@@ -13,7 +13,7 @@ envchain --set github GITHUB_ACCESS_TOKEN
 ## Install
 
 ```bash
-npm i -g @azu/github-label-setup @mizdra/github-label-presets
+npm i -g @azu/github-label-setup https://github.com/mizdra/github-label-presets
 ```
 
 ## Usage
