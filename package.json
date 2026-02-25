@@ -9,7 +9,6 @@
   },
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
-  "private": false,
   "main": "./index.json",
   "engines": {
     "node": ">=16.0.0"
